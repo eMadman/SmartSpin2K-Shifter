@@ -1,2 +1,0 @@
-# SmartSpin2K-Shifter
- 
