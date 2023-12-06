@@ -1,4 +1,5 @@
 ![Image of an assembled SmartSpin2K PCB Shifter.](https://github.com/eMadman/SmartSpin2K-Shifter/blob/main/images/assembled.png?raw=true)
+
 PCB Shifter for the SmartSpin2K.  This is designed to be printed in 2 parts with a combination of TPU and plastic of your choice (I suggest PETG or ABS)
 
 BOM:
