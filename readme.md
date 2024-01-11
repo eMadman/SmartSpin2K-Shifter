@@ -7,3 +7,4 @@ BOM:
 * 1x assembled PCB
 * 2x 45-55mm rubber o-rings
 * A bit of hot glue (optional)
+* 1x 3.5mm stereo male to male cable
